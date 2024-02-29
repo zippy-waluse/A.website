@@ -1,0 +1,52 @@
+#image1{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+#image2{
+    width: 500%;
+}
+.images{
+    display: inline-flex;
+    margin-left: 5%;
+}
+
+
+
+#vase{
+   text-align: center;
+}
+#icons{
+    text-align: center;
+}
+#author{
+   display: inline-flex;
+   ;
+}
+
+#button{
+    border-radius: 12%;
+}
+#sculpture{
+    display: grid;
+    padding-left: 10px;
+}
+#candle{
+   display: grid;
+   grid-template-columns: 50% 50%6;
+}
+#sculp{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+#sculp{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+#texts{
+    text-align: center;
+}
+#blackv{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
